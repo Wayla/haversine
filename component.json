@@ -1,0 +1,14 @@
+{
+  "name": "haversine",
+  "repo": "Wayla/haversine",
+  "description": "A simple haversine formula module for Node.js",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "haversine.js",
+  "scripts": [
+    "haversine.js"
+  ]
+}
